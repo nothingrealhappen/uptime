@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: liyaodong # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
@@ -8,7 +8,7 @@ sites:
     url: https://liyaodong.com
   - name: Personal Blog
     url: https://blog.liyaodong.com
-  - name: Jellyfin
+  - name: Movie
     url: http://h.liyaodong.com:8096
 
 status-website:
