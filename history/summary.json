@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 188,
-    "timeDay": 81,
-    "timeWeek": 265,
-    "timeMonth": 211,
-    "timeYear": 188,
+    "time": 187,
+    "timeDay": 82,
+    "timeWeek": 262,
+    "timeMonth": 207,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2021-06-08": 27
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 176,
-    "timeDay": 178,
-    "timeWeek": 344,
-    "timeMonth": 202,
-    "timeYear": 176,
+    "time": 175,
+    "timeDay": 78,
+    "timeWeek": 346,
+    "timeMonth": 199,
+    "timeYear": 175,
     "dailyMinutesDown": {
       "2021-06-08": 27
     }
@@ -45,15 +45,15 @@
     "icon": "https://favicons.githubusercontent.com/h.liyaodong.com",
     "slug": "movie",
     "status": "up",
-    "uptime": "88.51%",
+    "uptime": "88.55%",
     "uptimeDay": "98.18%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "98.97%",
-    "uptimeYear": "88.51%",
+    "uptimeYear": "88.55%",
     "time": 932,
-    "timeDay": 720,
+    "timeDay": 719,
     "timeWeek": 686,
-    "timeMonth": 839,
+    "timeMonth": 845,
     "timeYear": 932,
     "dailyMinutesDown": {
       "2021-07-06": 26,
