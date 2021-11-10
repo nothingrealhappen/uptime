@@ -4,10 +4,10 @@
     "url": "https://liyaodong.com",
     "icon": "https://favicons.githubusercontent.com/liyaodong.com",
     "slug": "personal-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 185,
@@ -16,6 +16,7 @@
     "timeMonth": 201,
     "timeYear": 185,
     "dailyMinutesDown": {
+      "2021-11-10": 1,
       "2021-06-08": 27
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://blog.liyaodong.com",
     "icon": "https://favicons.githubusercontent.com/blog.liyaodong.com",
     "slug": "personal-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 167,
     "timeYear": 172,
     "dailyMinutesDown": {
+      "2021-11-10": 0,
       "2021-08-21": 19,
       "2021-06-08": 27
     }
@@ -46,11 +48,11 @@
     "icon": "https://favicons.githubusercontent.com/h.liyaodong.com",
     "slug": "movie",
     "status": "up",
-    "uptime": "79.33%",
+    "uptime": "79.34%",
     "uptimeDay": "98.41%",
     "uptimeWeek": "99.59%",
-    "uptimeMonth": "72.03%",
-    "uptimeYear": "79.33%",
+    "uptimeMonth": "72.38%",
+    "uptimeYear": "79.34%",
     "time": 888,
     "timeDay": 1638,
     "timeWeek": 1003,
