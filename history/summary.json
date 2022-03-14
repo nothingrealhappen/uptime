@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 188,
-    "timeDay": 0,
-    "timeWeek": 236,
-    "timeMonth": 184,
+    "timeDay": 195,
+    "timeWeek": 226,
+    "timeMonth": 182,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2021-11-10": 26,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 173,
-    "timeDay": 0,
-    "timeWeek": 170,
-    "timeMonth": 166,
+    "timeDay": 194,
+    "timeWeek": 173,
+    "timeMonth": 165,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2021-11-10": 26,
@@ -48,16 +48,16 @@
     "icon": "https://favicons.githubusercontent.com/h.liyaodong.com",
     "slug": "movie",
     "status": "up",
-    "uptime": "84.98%",
-    "uptimeDay": "95.61%",
+    "uptime": "85.01%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "84.52%",
-    "time": 849,
-    "timeDay": 828,
-    "timeWeek": 779,
-    "timeMonth": 763,
-    "timeYear": 816,
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "84.53%",
+    "time": 848,
+    "timeDay": 726,
+    "timeWeek": 753,
+    "timeMonth": 767,
+    "timeYear": 808,
     "dailyMinutesDown": {
       "2022-03-12": 63,
       "2022-02-25": 25,
@@ -177,8 +177,7 @@
       "2021-04-27": 402,
       "2021-04-26": 18,
       "2021-03-16": 245,
-      "2021-03-15": 336,
-      "2021-03-14": 586
+      "2021-03-15": 336
     }
   }
 ]
