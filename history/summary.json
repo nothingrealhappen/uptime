@@ -49,9 +49,9 @@
     "url": "http://h.liyaodong.com:8096",
     "icon": "https://favicons.githubusercontent.com/h.liyaodong.com",
     "slug": "movie",
-    "status": "up",
-    "uptime": "89.19%",
-    "uptimeDay": "96.95%",
+    "status": "down",
+    "uptime": "89.20%",
+    "uptimeDay": "96.94%",
     "uptimeWeek": "98.30%",
     "uptimeMonth": "85.02%",
     "uptimeYear": "83.96%",
@@ -61,6 +61,7 @@
     "timeMonth": 738,
     "timeYear": 791,
     "dailyMinutesDown": {
+      "2022-07-04": 0,
       "2022-07-03": 44,
       "2022-07-01": 23,
       "2022-06-29": 85,
@@ -190,7 +191,7 @@
       "2021-07-14": 145,
       "2021-07-13": 20,
       "2021-07-11": 93,
-      "2021-07-10": 49
+      "2021-07-10": 18
     }
   }
 ]
