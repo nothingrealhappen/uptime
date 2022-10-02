@@ -2,7 +2,7 @@
   {
     "name": "Personal Home",
     "url": "https://liyaodong.com",
-    "icon": "https://favicons.githubusercontent.com/liyaodong.com",
+    "icon": "https://icons.duckduckgo.com/ip3/liyaodong.com.ico",
     "slug": "personal-home",
     "status": "up",
     "uptime": "99.98%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 240,
-    "timeDay": 164,
-    "timeWeek": 192,
-    "timeMonth": 288,
+    "timeDay": 165,
+    "timeWeek": 191,
+    "timeMonth": 287,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2022-07-25": 17,
@@ -25,7 +25,7 @@
   {
     "name": "Personal Blog",
     "url": "https://blog.liyaodong.com",
-    "icon": "https://favicons.githubusercontent.com/blog.liyaodong.com",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.liyaodong.com.ico",
     "slug": "personal-blog",
     "status": "up",
     "uptime": "99.98%",
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 168,
-    "timeDay": 159,
-    "timeWeek": 177,
-    "timeMonth": 166,
+    "timeDay": 169,
+    "timeWeek": 178,
+    "timeMonth": 167,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2022-07-25": 17,
@@ -48,18 +48,18 @@
   {
     "name": "Movie",
     "url": "http://h.liyaodong.com:8096",
-    "icon": "https://favicons.githubusercontent.com/h.liyaodong.com",
+    "icon": "https://icons.duckduckgo.com/ip3/h.liyaodong.com.ico",
     "slug": "movie",
     "status": "up",
-    "uptime": "89.70%",
+    "uptime": "89.71%",
     "uptimeDay": "82.05%",
-    "uptimeWeek": "66.98%",
+    "uptimeWeek": "74.24%",
     "uptimeMonth": "78.27%",
-    "uptimeYear": "88.98%",
+    "uptimeYear": "89.11%",
     "time": 793,
-    "timeDay": 823,
-    "timeWeek": 980,
-    "timeMonth": 800,
+    "timeDay": 757,
+    "timeWeek": 948,
+    "timeMonth": 799,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2022-10-01": 259,
@@ -169,8 +169,7 @@
       "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
-      "2021-10-03": 1440,
-      "2021-10-02": 1440
+      "2021-10-03": 1440
     }
   }
 ]
