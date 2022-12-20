@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 237,
-    "timeDay": 201,
-    "timeWeek": 181,
-    "timeMonth": 174,
+    "timeDay": 189,
+    "timeWeek": 178,
+    "timeMonth": 176,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2022-07-25": 17,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 167,
-    "timeDay": 206,
-    "timeWeek": 187,
-    "timeMonth": 195,
+    "timeDay": 191,
+    "timeWeek": 194,
+    "timeMonth": 198,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2022-07-25": 17,
@@ -50,17 +50,16 @@
     "slug": "movie",
     "status": "up",
     "uptime": "97.05%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "86.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "86.59%",
     "uptimeYear": "94.26%",
     "time": 840,
-    "timeDay": 715,
-    "timeWeek": 725,
-    "timeMonth": 897,
-    "timeYear": 855,
+    "timeDay": 741,
+    "timeWeek": 726,
+    "timeMonth": 898,
+    "timeYear": 854,
     "dailyMinutesDown": {
-      "2022-12-19": 13,
       "2022-12-17": 41,
       "2022-12-16": 192,
       "2022-12-12": 227,
@@ -156,7 +155,8 @@
       "2022-02-13": 284,
       "2022-02-12": 25,
       "2022-02-06": 295,
-      "2022-01-28": 21
+      "2022-01-28": 21,
+      "2022-01-19": 38
     }
   }
 ]
