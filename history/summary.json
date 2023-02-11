@@ -48,12 +48,12 @@
     "url": "http://h.liyaodong.com:8096",
     "icon": "https://icons.duckduckgo.com/ip3/h.liyaodong.com.ico",
     "slug": "movie",
-    "status": "up",
-    "uptime": "97.27%",
-    "uptimeDay": "91.79%",
+    "status": "down",
+    "uptime": "97.29%",
+    "uptimeDay": "91.78%",
     "uptimeWeek": "98.58%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "94.29%",
+    "uptimeYear": "94.32%",
     "time": 829,
     "timeDay": 848,
     "timeWeek": 808,
@@ -152,7 +152,7 @@
       "2022-03-28": 215,
       "2022-03-22": 564,
       "2022-03-21": 927,
-      "2022-03-20": 843
+      "2022-03-20": 656
     }
   }
 ]
