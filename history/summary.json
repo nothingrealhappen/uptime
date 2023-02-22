@@ -48,9 +48,9 @@
     "url": "http://h.liyaodong.com:8096",
     "icon": "https://icons.duckduckgo.com/ip3/h.liyaodong.com.ico",
     "slug": "movie",
-    "status": "up",
-    "uptime": "97.41%",
-    "uptimeDay": "94.49%",
+    "status": "down",
+    "uptime": "97.42%",
+    "uptimeDay": "94.47%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "94.51%",
@@ -154,7 +154,7 @@
       "2022-04-08": 39,
       "2022-03-28": 215,
       "2022-03-22": 564,
-      "2022-03-21": 492
+      "2022-03-21": 463
     }
   }
 ]
