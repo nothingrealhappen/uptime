@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 222,
-    "timeDay": 92,
-    "timeWeek": 162,
+    "timeDay": 148,
+    "timeWeek": 160,
     "timeMonth": 151,
     "timeYear": 236,
     "dailyMinutesDown": {
@@ -35,8 +35,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 158,
-    "timeDay": 78,
-    "timeWeek": 135,
+    "timeDay": 198,
+    "timeWeek": 140,
     "timeMonth": 144,
     "timeYear": 156,
     "dailyMinutesDown": {
@@ -54,17 +54,16 @@
     "slug": "movie",
     "status": "up",
     "uptime": "97.65%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "94.61%",
     "time": 905,
-    "timeDay": 802,
-    "timeWeek": 703,
-    "timeMonth": 768,
+    "timeDay": 692,
+    "timeWeek": 701,
+    "timeMonth": 762,
     "timeYear": 935,
     "dailyMinutesDown": {
-      "2023-04-27": 13,
       "2023-04-10": 283,
       "2023-03-10": 428,
       "2023-03-09": 742,
@@ -154,7 +153,8 @@
       "2022-06-07": 638,
       "2022-06-06": 139,
       "2022-06-05": 122,
-      "2022-06-01": 38
+      "2022-06-01": 38,
+      "2022-05-28": 29
     }
   }
 ]
