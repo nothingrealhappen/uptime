@@ -52,9 +52,9 @@
     "url": "http://h.liyaodong.com:8096",
     "icon": "https://icons.duckduckgo.com/ip3/h.liyaodong.com.ico",
     "slug": "movie",
-    "status": "up",
+    "status": "down",
     "uptime": "97.79%",
-    "uptimeDay": "98.32%",
+    "uptimeDay": "98.30%",
     "uptimeWeek": "98.51%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "94.82%",
@@ -152,7 +152,7 @@
       "2022-06-12": 510,
       "2022-06-11": 19,
       "2022-06-10": 770,
-      "2022-06-09": 1078
+      "2022-06-09": 1060
     }
   }
 ]
