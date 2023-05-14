@@ -53,18 +53,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/h.liyaodong.com.ico",
     "slug": "movie",
     "status": "up",
-    "uptime": "98.00%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "95.32%",
+    "uptime": "97.93%",
+    "uptimeDay": "93.78%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "95.16%",
     "time": 906,
     "timeDay": 695,
     "timeWeek": 680,
     "timeMonth": 695,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2023-05-13": 101,
+      "2023-05-13": 89,
       "2023-05-11": 71,
       "2023-05-10": 39,
       "2023-05-09": 16,
@@ -147,7 +147,9 @@
       "2022-06-19": 599,
       "2022-06-18": 889,
       "2022-06-17": 899,
-      "2022-06-15": 101
+      "2022-06-15": 101,
+      "2022-06-13": 342,
+      "2022-06-12": 510
     }
   }
 ]
