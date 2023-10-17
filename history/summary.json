@@ -10,8 +10,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 213,
-    "timeDay": 92,
+    "time": 166,
+    "timeDay": 83,
     "timeWeek": 126,
     "timeMonth": 134,
     "timeYear": 149,
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 150,
-    "timeDay": 103,
-    "timeWeek": 122,
+    "timeDay": 75,
+    "timeWeek": 123,
     "timeMonth": 124,
     "timeYear": 145,
     "dailyMinutesDown": {
@@ -47,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/h.liyaodong.com.ico",
     "slug": "movie",
     "status": "down",
-    "uptime": "93.35%",
+    "uptime": "93.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "83.71%",
+    "uptimeYear": "83.51%",
     "time": 904,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 944,
     "dailyMinutesDown": {
-      "2023-10-16": 16,
+      "2023-10-17": 16,
+      "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -171,8 +172,7 @@
       "2022-10-22": 83,
       "2022-10-21": 26,
       "2022-10-19": 173,
-      "2022-10-18": 148,
-      "2022-10-17": 223
+      "2022-10-18": 148
     }
   }
 ]
