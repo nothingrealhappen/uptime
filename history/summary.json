@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 94,
+    "timeDay": 100,
     "timeWeek": 109,
-    "timeMonth": 144,
+    "timeMonth": 142,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 92,
-    "timeWeek": 116,
+    "timeDay": 149,
+    "timeWeek": 124,
     "timeMonth": 131,
     "timeYear": 137,
     "dailyMinutesDown": {}
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/h.liyaodong.com.ico",
     "slug": "movie",
     "status": "down",
-    "uptime": "74.77%",
+    "uptime": "74.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.99%",
+    "uptimeYear": "18.72%",
     "time": 750,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 779,
+    "timeYear": 780,
     "dailyMinutesDown": {
-      "2024-06-23": 19,
+      "2024-06-24": 19,
+      "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
@@ -352,8 +353,7 @@
       "2023-07-17": 176,
       "2023-07-16": 967,
       "2023-06-27": 38,
-      "2023-06-26": 142,
-      "2023-06-25": 319
+      "2023-06-26": 142
     }
   }
 ]
