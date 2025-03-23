@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 219,
-    "timeWeek": 173,
-    "timeMonth": 182,
+    "timeDay": 230,
+    "timeWeek": 175,
+    "timeMonth": 186,
     "timeYear": 165,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 153,
-    "timeWeek": 166,
-    "timeMonth": 184,
+    "timeDay": 214,
+    "timeWeek": 171,
+    "timeMonth": 187,
     "timeYear": 158,
     "dailyMinutesDown": {}
   },
@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h.liyaodong.com.ico",
     "slug": "movie",
     "status": "down",
-    "uptime": "61.51%",
+    "uptime": "61.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-22": 22,
+      "2025-03-23": 25,
+      "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
@@ -415,8 +416,7 @@
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
-      "2024-03-24": 1440,
-      "2024-03-23": 1440
+      "2024-03-24": 1440
     }
   }
 ]
