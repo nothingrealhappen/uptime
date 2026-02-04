@@ -24,10 +24,10 @@
     "url": "https://blog.liyaodong.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.liyaodong.com.ico",
     "slug": "personal-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 194,
@@ -36,6 +36,7 @@
     "timeMonth": 202,
     "timeYear": 202,
     "dailyMinutesDown": {
+      "2026-02-04": 1,
       "2025-11-18": 58
     }
   },
@@ -45,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h.liyaodong.com.ico",
     "slug": "movie",
     "status": "down",
-    "uptime": "50.92%",
+    "uptime": "50.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 1365,
     "dailyMinutesDown": {
-      "2026-02-04": 30,
+      "2026-02-04": 1077,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
