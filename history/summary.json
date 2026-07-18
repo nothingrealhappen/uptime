@@ -4,21 +4,21 @@
     "url": "https://liyaodong.com",
     "icon": "https://icons.duckduckgo.com/ip3/liyaodong.com.ico",
     "slug": "personal-home",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
-    "time": 228,
-    "timeDay": 7698,
-    "timeWeek": 2027,
-    "timeMonth": 677,
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.97%",
+    "time": 229,
+    "timeDay": 5225,
+    "timeWeek": 1833,
+    "timeMonth": 665,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2025-11-18": 42,
       "2026-04-23": 68,
-      "2026-07-18": 5
+      "2026-07-18": 48
     }
   },
   {
@@ -60,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-18": 1196,
+      "2026-07-18": 1244,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
